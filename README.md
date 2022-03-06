@@ -1,7 +1,7 @@
 <h2 align="center"> Hey its Carlos (aka goat coder)! <img align="center" src="./resources/goat.png" width="25"></h2>
 
 <p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/aguilerac/" target="_blank" rel="noopener noreferrer"><img align="center" src="./resources/Linkedin-logo.png" width="20" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/aguilerac/" target="_blank" rel="noopener noreferrer"><img align="center" src="./resources/LinkedIn-logo.png" width="20" /></a>  
 &nbsp; <img align="center" src="./resources/gmail.png" width="15" /> - 18aguilerac@gmail.com
 </p>
 
