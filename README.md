@@ -7,7 +7,7 @@
 
 <img align="right" alt="GIF" src="./resources/yup.gif" width="375"/>
 
-<h3> <img align="center" src="./resources/Profile_Pic.png" width="14">&nbsp; About Me </h3>
+<h3>About Me </h3>
 
 - <img align="center" src="./resources/ethika-logo.png" width="14">&nbsp; Ethika Intern - Full Stack Dev
 - <img align="center" src="./resources/frontend.png" width="14">&nbsp; Learning Frontend as I go, using Vue, JS, and PHP
@@ -15,7 +15,7 @@
 - <img align="center" src="./resources/onepiece.png" width="14">&nbsp; Anime OFC
 - <img align="center" src="./resources/snow.png" width="14">&nbsp; Snowboarding & Soccer
 
-<h3>🛠 Tech Stack</h3>
+<h3>Tech Stack</h3>
 
 - 💻 &nbsp; C++ | PHP 
 - 🌐 &nbsp; Vue.js | HTML | CSS | JavaScript | Bootstrap 
