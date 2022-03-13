@@ -18,8 +18,7 @@
 <h3>Tech Stack</h3>
 
 - 💻 &nbsp; C++ | PHP 
-- 🌐 &nbsp; Vue.js | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MongoDB 
+- 🌐 &nbsp; Vue.js | HTML | CSS | JavaScript
 - 🔧 &nbsp; Visual Studio code | Git | Microsoft Office | Google Analytics
 
 <br>
