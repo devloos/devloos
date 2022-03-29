@@ -23,7 +23,7 @@
 
 <br>
 <p float="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=carlossn11&include_all_commits=true&count_private=true&show_icons=true&line_height=22.5&hide_rank=true&title_color=9DB8C8&icon_color=2B6CBA&text_color=D3D3D3&bg_color=0,000000,2F6586" alt="Carlos's Github Stats"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Puwya&include_all_commits=true&count_private=true&show_icons=true&line_height=22.5&hide_rank=true&title_color=9DB8C8&icon_color=2B6CBA&text_color=D3D3D3&bg_color=0,000000,2F6586" alt="Carlos's Github Stats"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossn11&layout=compact&title_color=9DB8C8&text_color=D3D3D3&bg_color=0,000000,2F6586" alt="Carlos's top languages"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puwya&layout=compact&title_color=9DB8C8&text_color=D3D3D3&bg_color=0,000000,2F6586" alt="Carlos's top languages"/>
 </p>
