@@ -19,7 +19,7 @@
 
 - 💻 &nbsp; C++ | PHP 
 - 🌐 &nbsp; Vue.js | HTML | CSS | JavaScript
-- 🔧 &nbsp; Visual Studio code | Git | Microsoft Office | Google Analytics
+- 🔧 &nbsp; Linux | Git | Microsoft Office | Google Analytics
 
 <br>
 <p float="left">
