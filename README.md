@@ -11,7 +11,6 @@
 
 - <img align="center" src="./resources/ethika-logo.png" width="14">&nbsp; Ethika - Junior Web Developer
 - <img align="center" src="./resources/frontend.png" width="14">&nbsp; Learning Frontend as I go, using Vue.Js, HTML, and PHP
-- <img align="center" src="./resources/skills.png" width="14">&nbsp; I have strong communication & leadership
 - <img align="center" src="./resources/onepiece.png" width="14">&nbsp; Anime OFC
 - <img align="center" src="./resources/snow.png" width="14">&nbsp; Snowboarding & Soccer
 
