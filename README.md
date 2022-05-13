@@ -10,7 +10,7 @@
 <h3>About Me </h3>
 
 - <img align="center" src="./resources/ethika-logo.png" width="14">&nbsp; Ethika - Junior Web Developer
-- <img align="center" src="./resources/frontend.png" width="14">&nbsp; Learning Frontend as I go, using Vue.Js, HTML, and PHP
+- <img align="center" src="./resources/frontend.png" width="14">&nbsp; Learning Frontend as I go, using Vue.Js, PHP, and Bootstrap
 - <img align="center" src="./resources/onepiece.png" width="14">&nbsp; Anime OFC
 - <img align="center" src="./resources/soccer.png" width="14">&nbsp; Snowboarding & Soccer
 
