@@ -18,7 +18,7 @@
 
 - 💻 &nbsp; C++ | PHP 
 - 🌐 &nbsp; Vue.js | HTML | CSS | JavaScript
-- 🔧 &nbsp; Linux | Git | Microsoft Office | Google Analytics | SDL
+- 🔧 &nbsp; Linux | Git | Microsoft Office | Google Analytics | RayLib
 
 <br>
 <p float="left">
