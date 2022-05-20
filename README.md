@@ -10,14 +10,13 @@
 <h3>About Me </h3>
 
 - <img align="center" src="./resources/ethika-logo.png" width="14">&nbsp; Ethika - Junior Web Developer
-- <img align="center" src="./resources/frontend.png" width="14">&nbsp; Learning Frontend as I go, using Vue.Js, PHP, and Bootstrap
 - <img align="center" src="./resources/onepiece.png" width="14">&nbsp; Anime OFC
 - <img align="center" src="./resources/soccer.png" width="14">&nbsp; Snowboarding & Soccer
 
 <h3>Tech Stack</h3>
 
 - 💻 &nbsp; C++ | PHP 
-- 🌐 &nbsp; Vue.js | HTML | CSS | JavaScript
+- 🌐 &nbsp; Vue.js | HTML | CSS | JavaScript | Bootstrap
 - 🔧 &nbsp; Linux | Git | Microsoft Office | Google Analytics | Raylib
 
 <br>
