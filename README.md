@@ -5,7 +5,7 @@
 &nbsp; <img align="center" src="./resources/gmail.png" width="15" /> - 18aguilerac@gmail.com
 </p>
 
-<img align="right" alt="GIF" src="./resources/yup.gif" width="375"/>
+<img align="right" alt="GIF" src="./resources/yup.gif" width="370"/>
 
 <h3>About Me </h3>
 
