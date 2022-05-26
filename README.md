@@ -5,8 +5,6 @@
 &nbsp; <img align="center" src="./resources/gmail.png" width="15" /> - 18aguilerac@gmail.com
 </p>
 
-<img align="right" alt="GIF" src="./resources/yup.gif" width="375"/>
-
 <h3>About Me </h3>
 
 - <img align="center" src="./resources/ethika-logo.png" width="14">&nbsp; Ethika - Junior Web Developer
