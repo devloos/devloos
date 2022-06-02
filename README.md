@@ -1,4 +1,4 @@
-<h2 align="center"> Carlos (aka goat coder)! <img align="center" src="./resources/goat.png" width="25"></h2>
+<h2 align="center"> Goat Coder! <img align="center" src="./resources/goat.png" width="25"></h2>
 
 ```cpp
 namespace Carlos {
