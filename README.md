@@ -45,18 +45,6 @@
       </a>
       <br>HTML
     </td>    
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="resources/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="resources/" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>    
   </tr>
   <tr>
     <td align="center" width="96">
@@ -83,6 +71,20 @@
       </a>
       <br>Analytics
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="resources/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="resources/" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
+    </td>  
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="resources/" width="48" height="48" alt="Raylib" />
@@ -94,7 +96,7 @@
         <img src="resources/" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
-    </td>    
+    </td>        
   </tr>
 </table>
 <img align="right" src="https://raw.githubusercontent.com/Puwya/ReadmePanel/master/generated/languages.svg#gh-dark-mode-only" alt="Puwya Languages"/>
