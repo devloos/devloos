@@ -1,41 +1,101 @@
-<h2 align="center"> Goat Coder! <img align="center" src="./resources/goat.png" width="25"></h2>
+<h2 align="center" id="macropower-title"> Goat Coder! <img align="center" src="./resources/goat.png" width="25"></h2>
+<h4 align="center">Results-Driven and motivated Junior Web Developer, always searching for ways to improve functionality in any project placed in. Strong attention to detail and ability to finish projects on schedule within budget.</h4>
 
-```cpp
-namespace Carlos {
-class Knowledge : public Google {
+<a href="#macropower-title">
+  <img src="https://raw.githubusercontent.com/Puwya/ReadmePanel/master/generated/overview.svg#gh-dark-mode-only" alt="Puwya" align="right" />
+</a>
 
- public:
-  Mastery getMastery() const { return this->m_Pure; }
-  AboutMe getMe() const { return this->m_Me; }
-  
- private:
-  struct Mastery {
-   public:
-    std::vector<std::string> Backend { {"C++"}, {"PHP"} };
-    std::vector<std::string> Frontend {
-      {"Vue.js"}, {"HTML"}, {"CSS"}, {"JavaScript"}, {"Bootstrap"}
-    };
-    std::vector<std::string> Technologies {
-      {"Linux"}, {"Git"}, {"Microsoft Office"}, {"Google Analytics"}, {"Raylib"}
-    };
-  };
-  Mastery m_Pure;
-  
-  struct AboutMe {
-   public:
-    std::vector<std::string> Los {
-      {"Junior Web Developer For Ethika"},
-      {"Anime of Course"},
-      {"Snowboarding & Soccer"}
-    };
-  };
-  AboutMe m_Me;
-};
-}; // namespace Carlos
-```
+- Junior Web Developer For Ethika
+- Anime of Course
+  - One Piece
+  - Darling in the Franxx
+  - HxH
+- Snowboarding & Soccer
+
 <br>
-<p float="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Puwya&include_all_commits=true&count_private=true&show_icons=true&line_height=25.5&hide_rank=false&title_color=9DB8C8&icon_color=2B6CBA&text_color=D3D3D3&bg_color=0,000000,2F6586" alt="Carlos's Github Stats" width="50%"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puwya&layout=compact&title_color=9DB8C8&text_color=D3D3D3&bg_color=0,000000,2F6586" alt="Carlos's top languages"/>
-</p>
+<h2 align="left" id="macropower-tech">Technology</h2>
+
+> Tools, languages, and Libraries
+
+<div>
+<table align="left">
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="resources/" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="resources/" width="48" height="48" alt="Vue.Js" />
+      </a>
+      <br>Vue.Js
+    </td>    
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="resources/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="resources/" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>    
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="resources/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="resources/" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
+    </td>    
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="resources/" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="resources/javascript-original.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>    
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="resources/" width="48" height="48" alt="Office" />
+      </a>
+      <br>Office
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="resources/" width="48" height="48" alt="Analytics" />
+      </a>
+      <br>Analytics
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="resources/" width="48" height="48" alt="Raylib" />
+      </a>
+      <br>Raylib
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="resources/" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>    
+  </tr>
+</table>
+<img align="right" src="https://raw.githubusercontent.com/Puwya/ReadmePanel/master/generated/languages.svg#gh-dark-mode-only" alt="Puwya Languages"/>
+</div>
