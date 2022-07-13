@@ -21,7 +21,7 @@
 <table align="left">
   <tr>
     <td align="center" width="96">
-        <img src="resources/cpp.png" width="48" height="48" alt="C++" />
+        <a href="https://en.cppreference.com/w/"><img src="resources/cpp.png" width="48" height="48" alt="C++" /></a>
       <br>C++
     </td>
     <td align="center" width="96">
