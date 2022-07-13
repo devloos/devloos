@@ -57,15 +57,15 @@
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="resources/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/"><img src="resources/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" /></a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="resources/PHP.png" width="48" height="48" alt="PHP" />
+      <a href="https://devdocs.io/php/"><img src="resources/PHP.png" width="48" height="48" alt="PHP" /></a>
       <br>PHP
     </td>  
     <td align="center" width="96">
-        <img src="resources/raylib.png" width="48" height="48" alt="Raylib" />
+        <a href="https://www.raylib.com/"><img src="resources/raylib.png" width="48" height="48" alt="Raylib" /></a>
       <br>Raylib
     </td>
     <td align="center" width="96">
