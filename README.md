@@ -25,15 +25,15 @@
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="resources/vue.png" width="48" height="48" alt="Vue.Js" />
+      <a href="https://vuejs.org/guide/introduction.html"><img src="resources/vue.png" width="48" height="48" alt="Vue.Js" /></a>
       <br>Vue.Js
     </td>    
     <td align="center" width="96">
-        <img src="resources/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="resources/javascript-original.svg" width="48" height="48" alt="JavaScript" /></a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="resources/html.png" width="48" height="48" alt="HTML" />
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="resources/html.png" width="48" height="48" alt="HTML" /></a>
       <br>HTML
     </td>    
   </tr>
