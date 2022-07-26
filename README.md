@@ -36,7 +36,7 @@
       <br>HTML
     </td>    
     <td align="center" width="90">
-        <img src="resources/mongodb.png" width="48" height="48" alt="CSS" />
+        <img src="resources/mongodb.png" width="48" height="48" alt="Mongodb" />
       <br>Mongodb
     </td>        
   </tr>
@@ -56,6 +56,10 @@
     <td align="center" width="90">
         <img src="resources/analytics.png" width="48" height="48" alt="Analytics" />
       <br>Analytics
+    </td>
+    <td align="center" width="90">
+        <img src="resources/markdown.png" width="48" height="48" alt="Markdown" />
+      <br>Markdown
     </td>
   </tr>
   <tr>
