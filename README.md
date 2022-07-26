@@ -14,7 +14,7 @@
 
 <h2 align="left">Technology</h2>
 
-> Tools, languages, and Libraries
+> Tools, Languages, and Libraries
 
 <div>
 <table align="left">
