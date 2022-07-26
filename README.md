@@ -1,7 +1,6 @@
 <h2 align="center"> Goat Coder! <img align="center" src="./resources/goat.png" width="25"></h2>
 <h4 align="center">Results-Driven and motivated Junior Web Developer, always searching for ways to improve functionality in any project placed in. Strong attention to detail and ability to finish projects on schedule within budget.</h4>
 
-
 <img src="https://raw.githubusercontent.com/Puwya/ReadmePanel/master/generated/overview.svg#gh-dark-mode-only" alt="Puwya Stats" align="right" />
 
 - Junior Web Developer For Ethika
@@ -36,6 +35,10 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="resources/html.png" width="48" height="48" alt="HTML" /></a>
       <br>HTML
     </td>    
+    <td align="center" width="96">
+        <img src="resources/mongodb.png" width="48" height="48" alt="CSS" />
+      <br>Mongodb
+    </td>        
   </tr>
   <tr>
     <td align="center" width="96">
