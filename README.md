@@ -79,6 +79,10 @@
         <img src="resources/css.png" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>        
+    <td align="center" width="90">
+        <img src="resources/cmake.png" width="48" height="48" alt="Cmake" />
+      <br>Cmake
+    </td>        
   </tr>
 </table>
 <img align="right" src="https://raw.githubusercontent.com/Puwya/ReadmePanel/master/generated/languages.svg#gh-dark-mode-only" alt="Puwya Languages"/>
