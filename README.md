@@ -1,4 +1,4 @@
-<h2 align="center"> Goat Coder! <img align="center" src="./resources/goat.png" width="25"></h2>
+<div align="center"><img align="center" src="./resources/goat.png" width="25"></div>
 <h4 align="center">Results-Driven and motivated Junior Web Developer, always searching for ways to improve functionality in any project placed in. Strong attention to detail and ability to finish projects on schedule within budget.</h4>
 
 <img src="https://raw.githubusercontent.com/Puwya/ReadmePanel/master/generated/overview.svg#gh-dark-mode-only" alt="Puwya Stats" align="right" />
