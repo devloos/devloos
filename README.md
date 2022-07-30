@@ -21,10 +21,6 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="resources/html.png" width="48" height="48" alt="HTML" /></a>
       <br>HTML
     </td>    
-    <td align="center" width="90">
-        <img src="resources/mongodb.png" width="48" height="48" alt="Mongodb" />
-      <br>Mongodb
-    </td>        
   </tr>
   <tr>
     <td align="center" width="90">
@@ -42,10 +38,6 @@
     <td align="center" width="90">
         <img src="resources/analytics.png" width="48" height="48" alt="Analytics" />
       <br>Analytics
-    </td>
-    <td align="center" width="90">
-        <img src="resources/markdown.png" width="48" height="48" alt="Markdown" />
-      <br>Markdown
     </td>
   </tr>
   <tr>
@@ -65,9 +57,19 @@
         <img src="resources/css.png" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>        
-    <td align="center" width="90">
+  </tr>
+  <tr>
+      <td align="center" width="90">
         <img src="resources/cmake.png" width="48" height="48" alt="Cmake" />
       <br>Cmake
+    </td>
+        <td align="center" width="90">
+        <img src="resources/markdown.png" width="48" height="48" alt="Markdown" />
+      <br>Markdown
+    </td>
+        <td align="center" width="90">
+        <img src="resources/mongodb.png" width="48" height="48" alt="Mongodb" />
+      <br>Mongodb
     </td>        
   </tr>
 </table>
