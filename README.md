@@ -1,5 +1,5 @@
 <div align="center">
-<img src="resources/goat.png" width="10%"/>
+<img src="resources/goat.png" width="5%"/>
 </div>
 
 > Tools, Languages, and Libraries
