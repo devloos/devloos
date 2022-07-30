@@ -1,5 +1,6 @@
 <div align="center">
 <img src="resources/goat.png" width="5%"/>
+<hr>
 </div>
 
 > Tools, Languages, and Libraries
