@@ -1,3 +1,7 @@
+<div align="center">
+<img src="resources/goat.png" width="10%"/>
+</div>
+
 > Tools, Languages, and Libraries
 
 <img src="https://raw.githubusercontent.com/Puwya/ReadmePanel/master/generated/overview.svg#gh-dark-mode-only" alt="Puwya Stats" align="right" />
