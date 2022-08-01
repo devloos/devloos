@@ -26,6 +26,10 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="resources/html.png" width="48" height="48" alt="HTML" /></a>
         <br>HTML
       </td>
+      <td align="center" width="90">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="resources/html.png" width="48" height="48" alt="HTML" /></a>
+        <br>HTML
+      </td>
     </tr>
     <tr>
       <td align="center" width="90">
