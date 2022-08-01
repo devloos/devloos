@@ -69,12 +69,17 @@
       <br>Cmake
     </td>
         <td align="center" width="90">
-        <img src="resources/markdown.png" width="48" height="48" alt="Markdown" />
-      <br>Markdown
+        <img src="resources/nodejs.png" width="48" height="48" alt="Node js" />
+      <br>Node Js
     </td>
         <td align="center" width="90">
         <img src="resources/mongodb.png" width="48" height="48" alt="Mongodb" />
       <br>Mongodb
+    </td>        
+      </td>
+        <td align="center" width="90">
+        <img src="resources/expressjs.png" width="48" height="48" alt="expressjs" />
+      <br>Express
     </td>        
   </tr>
 </table>
