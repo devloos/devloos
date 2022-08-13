@@ -1,10 +1,14 @@
 <div align="center">
   <img src="resources/goat.png" width="5%" />
+  <hr />
 </div>
 
 <div align="center">
   <b>Tools, Languages, and Libraries</b>
-  <hr />
+</div>
+
+<div align="center">
+  <b>&#8595;</b>
 </div>
 
 <div align="center" style="margin-top: 3px">
