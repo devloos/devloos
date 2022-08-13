@@ -3,12 +3,12 @@
 <hr>
 </div>
 
-> Tools, Languages, and Libraries
+<div align="center" style="margin-bottom: 10px">
+  <b>Tools, Languages, and Libraries</b>
+</div>
 
-<img src="https://raw.githubusercontent.com/Puwya/ReadmePanel/master/generated/overview.svg#gh-dark-mode-only" alt="Puwya Stats" align="right" />
-
-<div style="margin-top: 3px">
-  <table align="left">
+<div align="center" style="margin-top: 3px">
+  <table>
     <tr>
       <td align="center" width="95">
           <a href="https://en.cppreference.com/w/"><img src="resources/cpp.png" width="48" height="48" alt="C++" /></a>
@@ -83,5 +83,8 @@
       </td>        
     </tr>
   </table>
-  <img align="right" src="https://raw.githubusercontent.com/Puwya/ReadmePanel/master/generated/languages.svg#gh-dark-mode-only" alt="Puwya Languages"/>
+</div>
+<div align="center"> 
+  <img src="https://raw.githubusercontent.com/Puwya/ReadmePanel/master/generated/languages.svg#gh-dark-mode-only" alt="Puwya Languages"/>
+  <img src="https://raw.githubusercontent.com/Puwya/ReadmePanel/master/generated/overview.svg#gh-dark-mode-only" alt="Puwya Stats"/>
 </div>
