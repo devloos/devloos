@@ -1,6 +1,5 @@
 <div align="center">
   <img src="resources/goat.png" width="5%" />
-  <hr />
 </div>
 
 <div align="center">
@@ -112,4 +111,14 @@
     src="https://raw.githubusercontent.com/Puwya/ReadmePanel/master/generated/overview.svg#gh-dark-mode-only"
     alt="Puwya Stats"
   />
+</div>
+<hr/>
+<div>
+<span>
+Visit my <a href="https://www.caguilera.dev/#/">Portfolio</a>
+</span>
+<br/>
+<span>
+Connect with me on <a href="https://www.linkedin.com/in/aguilerac/">Linkedin</a>
+</span>
 </div>
