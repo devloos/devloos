@@ -115,10 +115,10 @@
 <hr/>
 <div>
 <span>
-Visit my <a href="https://www.caguilera.dev/#/">Portfolio</a>
+Visit my <a href="https://www.caguilera.dev/#/" target="_blank" rel="noopener noreferrer">Portfolio</a>
 </span>
 <br/>
 <span>
-Connect with me on <a href="https://www.linkedin.com/in/aguilerac/">Linkedin</a>
+Connect with me on <a href="https://www.linkedin.com/in/aguilerac/" target="_blank" rel="noopener noreferrer">Linkedin</a>
 </span>
 </div>
