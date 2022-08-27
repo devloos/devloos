@@ -102,6 +102,7 @@
     </tr>
   </table>
 </div>
+
 <div align="center">
   <img
     src="https://raw.githubusercontent.com/Puwya/ReadmePanel/master/generated/languages.svg#gh-dark-mode-only"
@@ -112,13 +113,22 @@
     alt="Puwya Stats"
   />
 </div>
-<hr/>
+<hr />
 <div>
-<span>
-Visit my <a href="https://www.caguilera.dev/#/" target="_blank" rel="noopener noreferrer">Portfolio</a>
-</span>
-<br/>
-<span>
-Connect with me on <a href="https://www.linkedin.com/in/aguilerac/" target="_blank" rel="noopener noreferrer">Linkedin</a>
-</span>
+  <span>
+    Visit my
+    <a href="https://www.caguilera.dev/#/" target="_blank" rel="noopener noreferrer"
+      >Portfolio</a
+    >
+  </span>
+  <br />
+  <span>
+    Connect with me on
+    <a
+      href="https://www.linkedin.com/in/aguilerac/"
+      target="_blank"
+      rel="noopener noreferrer"
+      >Linkedin</a
+    >
+  </span>
 </div>
