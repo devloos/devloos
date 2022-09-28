@@ -56,7 +56,7 @@
         <br />Git
       </td>
       <td align="center" width="80">
-        <img src="resources/JavaLava.png" width="32" height="32" alt="Office" />
+        <img src="resources/JavaLava.png" width="38" height="38" alt="Office" />
         <br />Java
       </td>
       <td align="center" width="80">
