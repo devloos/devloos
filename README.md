@@ -56,8 +56,8 @@
         <br />Git
       </td>
       <td align="center" width="80">
-        <img src="resources/office.png" width="32" height="32" alt="Office" />
-        <br />Office
+        <img src="resources/java.gif" width="32" height="32" alt="Office" />
+        <br />Java
       </td>
       <td align="center" width="80">
         <img src="resources/cmake.png" width="32" height="32" alt="Cmake" />
