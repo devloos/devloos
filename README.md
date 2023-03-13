@@ -13,7 +13,7 @@
 <div align="center" style="margin-top: 3px">
   <table>
     <tr>
-      <td align="center" width="80">
+      <td align="center" width="60">
         <img src="resources/rust.png" alt="rust" />
         <br />Rust
       </td>
