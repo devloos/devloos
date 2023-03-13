@@ -14,6 +14,10 @@
   <table>
     <tr>
       <td align="center" width="80">
+        <img src="resources/rust.png" width="32" height="32" alt="rust" />
+        <br />Rust
+      </td>
+      <td align="center" width="80">
         <a href="https://en.cppreference.com/w/"
           ><img src="resources/cpp.png" width="32" height="32" alt="C++"
         /></a>
@@ -40,10 +44,6 @@
           ><img src="resources/html.png" width="32" height="32" alt="HTML"
         /></a>
         <br />HTML
-      </td>
-      <td align="center" width="80">
-        <img src="resources/expressjs.png" width="32" height="32" alt="expressjs" />
-        <br />Express
       </td>
     </tr>
     <tr>
@@ -72,7 +72,7 @@
       <td align="center" width="80">
         <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/"
           ><img
-            src="resources/bootstrap-plain.svg"
+            src="resources/bootstrap.png"
             width="32"
             height="32"
             alt="Bootstrap"
