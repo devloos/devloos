@@ -14,7 +14,7 @@
   <table>
     <tr>
       <td align="center" width="80">
-        <img src="resources/rust.png" width="32" height="32" alt="rust" />
+        <img src="resources/rust.png" alt="rust" />
         <br />Rust
       </td>
       <td align="center" width="60">
@@ -73,8 +73,6 @@
         <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/"
           ><img
             src="resources/bootstrap.png"
-            width="32"
-            height="32"
             alt="Bootstrap"
         /></a>
         <br />Bootstrap
