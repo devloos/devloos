@@ -58,8 +58,8 @@
         <br />Java
       </td>
       <td align="center" width="60">
-        <img src="resources/cmake.png" width="32" height="32" alt="Cmake" />
-        <br />Cmake
+        <img src="resources/cmake.png" width="32" height="32" alt="CMake" />
+        <br />CMake
       </td>
       <td align="center" width="60">
         <img src="resources/mongodb.png" width="32" height="32" alt="Mongodb" />
