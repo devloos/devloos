@@ -66,7 +66,7 @@
 </div>
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/Puwya/ReadmePanel/master/generated/overview.svg#gh-dark-mode-only"
+    src=https://github-readme-stats.vercel.app/api?username=devloos&count_private=true&show_icons=true&theme=github_dark_dimmed"
     alt="Puwya Stats"
   />
 </div>
