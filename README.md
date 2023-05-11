@@ -64,7 +64,7 @@
     alt="cmake"
   />
 </div>
-<div align="center">
+<!-- <div align="center"> -->
   <picture>
   <source
     srcset=https://github-readme-stats.vercel.app/api?username=devloos&count_private=true&show_icons=true&theme=dark"
@@ -72,7 +72,7 @@
   />
   </picture>
 
-</div>
+<!-- </div> -->
 <hr />
 <div>
   <div>
