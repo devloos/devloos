@@ -65,10 +65,13 @@
   />
 </div>
 <div align="center">
-  <img
-    src=https://github-readme-stats.vercel.app/api?username=devloos&count_private=true&show_icons=true&theme=github_dark_dimmed"
-    alt="Puwya Stats"
+  <picture>
+  <source
+    srcset=https://github-readme-stats.vercel.app/api?username=devloos&count_private=true&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
   />
+  </picture>
+
 </div>
 <hr />
 <div>
