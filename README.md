@@ -17,7 +17,6 @@
     choices.
   </p>
 </div>
-<br />
 <hr />
 <div align="center">
   <img
