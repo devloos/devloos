@@ -64,10 +64,12 @@
     alt="cmake"
   />
 </div>
+
+<!-- ![Anurag's GitHub stats]() -->
 <!-- <div align="center"> -->
   <picture>
   <source
-    srcset=https://github-readme-stats.vercel.app/api?username=devloos&count_private=true&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=devloos&count_private=true&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   </picture>
