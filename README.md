@@ -67,7 +67,7 @@
 <br>
 <div align="center">
 
-![Stat Card](https://github-readme-stats.vercel.app/api?username=devloos&count_private=true&show_icons=true&include_all_commits=true&theme=apprentice)
+![Stat Card](https://github-readme-stats.vercel.app/api?username=devloos&count_private=true&show_icons=true&include_all_commits=true&icon_color=1e81b0&theme=apprentice)
 
 </div>
 <hr />
