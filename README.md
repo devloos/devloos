@@ -5,10 +5,7 @@
 <br />
 <div>
   <p>
-    I work as a Web Developer at Ethika Inc. Currently, my primary goals revolve around
-    gaining admission to a reputable university renowned for its Computer Science program.
-    This achievement would pave the way for another aspiration of mine: securing a
-    software engineering position at a FAANG company.
+I am a curious software engineer with a passion for Computer Science. I am enrolled in college and have been excelling, maintaining an impressive 3.9 GPA while pursuing Computer Science. My goal is to apply to UCI in the fall of 2023, which would be a significant achievement for me since I would be the first in my family to attend a university. My ultimate life goal is to create something that leaves a meaningful impact, regardless of its scale.
   </p>
   <p>
     For the upcoming Fall semester in 2023, I intend to apply to several universities
