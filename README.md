@@ -7,12 +7,6 @@
   <p>
 I am a curious software engineer with a passion for Computer Science. I am enrolled in college and have been excelling, maintaining an impressive 3.9 GPA while pursuing Computer Science. My goal is to apply to UCI in the fall of 2023, which would be a significant achievement for me since I would be the first in my family to attend a university. My ultimate life goal is to create something that leaves a meaningful impact, regardless of its scale.
   </p>
-  <p>
-    For the upcoming Fall semester in 2023, I intend to apply to several universities
-    including UCI, UCSC, UCR, UCSD, SLO, SDSU, CSULA, SFSU, and Pomona, among others.
-    Among these options, my preferences lie with UCI, SFSU, and UC Santa Cruz as my top
-    choices.
-  </p>
 </div>
 <hr />
 <div align="center">
