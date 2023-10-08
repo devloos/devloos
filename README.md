@@ -54,6 +54,14 @@ I am a curious software engineer with a passion for Computer Science. I am enrol
     src="https://img.shields.io/badge/cmake%20-%23323330.svg?&style=for-the-badge&logo=cmake"
     alt="cmake"
   />
+  <img
+    src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python"
+    alt="python"
+  />
+  <img
+    src="https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=java"
+    alt="Java"
+  />
 </div>
 <br>
 <div align="center">
