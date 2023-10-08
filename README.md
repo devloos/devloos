@@ -62,6 +62,10 @@ I am a curious software engineer with a passion for Computer Science. I am enrol
     src="https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=java"
     alt="Java"
   />
+  <img
+    src="https://img.shields.io/badge/tailwind%20css%20-%23323330.svg?&style=for-the-badge&logo=tailwindcss"
+    alt="tailwindcss"
+  />
 </div>
 <br>
 <div align="center">
