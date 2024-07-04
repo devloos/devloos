@@ -5,7 +5,7 @@
 <br />
 <div>
   <p>
-I am a curious software engineer with a passion for Computer Science. I am enrolled in college and have been excelling, maintaining an impressive 3.85 GPA while pursuing Computer Science. My goal is to get accepted into the University of California in the fall of 2024, which would be a significant achievement for me since I would be the first in my family to attend a university. A goal of mine is to create something that leaves a meaningful impact, regardless of its scale.
+I am a curious software engineer with a passion for Computer Science. I am enrolled in Long Beach State University and have been excelling, maintaining an impressive 3.85 GPA while pursuing a Bachelor's in Computer Science. A goal of mine is to create something that leaves a meaningful impact, regardless of its scale.
   </p>
 </div>
 <hr />
