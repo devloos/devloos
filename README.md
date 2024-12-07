@@ -78,7 +78,7 @@ I am a curious software engineer with a passion for Computer Science. I am enrol
   <div>
     <span>
       Visit my
-      <a href="https://www.caguilera.dev/#/" target="_blank" rel="noopener noreferrer"
+      <a href="https://www.caguilera.dev" target="_blank" rel="noopener noreferrer"
         >Portfolio</a
       >
     </span>
