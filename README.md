@@ -9,64 +9,35 @@ I am a curious software engineer with a passion for Computer Science. I am enrol
   </p>
 </div>
 <hr />
+
 <div align="center">
-  <img
-    src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript"
-    alt="javascript"
-  />
-  <img
-    src="https://img.shields.io/badge/rust%20-%23323330.svg?&style=for-the-badge&logo=rust"
-    alt="rust"
-  />
-  <img
-    src="https://img.shields.io/badge/vue%20-%23323330.svg?&style=for-the-badge&logo=vuedotjs"
-    alt="vue"
-  />
-  <img
-    src="https://img.shields.io/badge/php%20-%23323330.svg?&style=for-the-badge&logo=php"
-    alt="php"
-  />
-  <img
-    src="https://img.shields.io/badge/c++%20-%23323330.svg?&style=for-the-badge&logo=cplusplus"
-    alt="c++"
-  />
-  <img
-    src="https://img.shields.io/badge/html%20-%23323330.svg?&style=for-the-badge&logo=html5"
-    alt="html"
-  />
-  <img
-    src="https://img.shields.io/badge/linux%20-%23323330.svg?&style=for-the-badge&logo=linux"
-    alt="linux"
-  />
-  <img
-    src="https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git"
-    alt="git"
-  />
-  <img
-    src="https://img.shields.io/badge/mongodb%20-%23323330.svg?&style=for-the-badge&logo=mongodb"
-    alt="mongodb"
-  />
-  <img
-    src="https://img.shields.io/badge/css%20-%23323330.svg?&style=for-the-badge&logo=css3"
-    alt="css"
-  />
-  <img
-    src="https://img.shields.io/badge/cmake%20-%23323330.svg?&style=for-the-badge&logo=cmake"
-    alt="cmake"
-  />
-  <img
-    src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python"
-    alt="python"
-  />
-  <img
-    src="https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=java"
-    alt="Java"
-  />
-  <img
-    src="https://img.shields.io/badge/tailwind%20css%20-%23323330.svg?&style=for-the-badge&logo=tailwindcss"
-    alt="tailwindcss"
-  />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white" alt="Nuxt.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white" alt="Symfony" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white" alt="CMake" />
 </div>
+
 <br>
 <div align="center">
 
