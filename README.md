@@ -28,8 +28,8 @@ I am a curious software engineer with a passion for Computer Science. I am enrol
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
