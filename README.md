@@ -21,6 +21,13 @@ I am a curious software engineer with a passion for Computer Science. I am enrol
 
 <br clear="left"/>
 
+### Project Highlights
+- Built and scaled a full-stack Nuxt + Supabase application, integrating real-time chat, authentication, RLS-based security, and role-based access control.
+- Optimized performance and UX with infinite pagination, DOM recycling techniques, LQIP placeholders, and CDN-based image transformations (ImageKit + S3).
+- Delivered SEO-driven growth, implementing SSR, Open Graph/Twitter cards, and structured metadata, resulting in strong search visibility and engagement.
+- Integrated critical services (Stripe subscriptions, Google Maps API with custom pins, AI-enhanced search, GPT-powered image tagging) into a seamless product experience.
+- Driving 200+ user sign-ups and enabling event management, profile customization, and subscription-based monetization.
+
 ---
 
 <div align="center">
