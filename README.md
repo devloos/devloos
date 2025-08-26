@@ -17,7 +17,7 @@ I am a curious software engineer with a passion for Computer Science. I am enrol
   <b>The Inked Network</b> is a modern web application that enables tattoo enthusiasts to explore, connect with, and book artists through interactive portfolios, an AI-enhanced search experience, and a Tinder-style art swiper.
 </p>
 
-**Live App:** [The Inked Networkc](https://www.theinkednetwork.com)
+**Live App:** [The Inked Network](https://www.theinkednetwork.com)
 
 <br clear="left"/>
 
