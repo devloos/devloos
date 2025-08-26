@@ -23,8 +23,6 @@ I am a curious software engineer with a passion for Computer Science. I am enrol
 
 ---
 
-<hr />
-
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
