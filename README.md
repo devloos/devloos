@@ -3,11 +3,26 @@
   <img src="assets/goat.png" alt="goat" width="25" />
 </div>
 <br />
+
 <div>
   <p>
 I am a curious software engineer with a passion for Computer Science. I am enrolled in Long Beach State University and have been excelling, maintaining an impressive 3.85 GPA while pursuing a Bachelor's in Computer Science. A goal of mine is to create something that leaves a meaningful impact, regardless of its scale.
   </p>
 </div>
+
+## Featured Project: The Inked Network
+
+<p align="left">
+  <img src="assets/inked-network-logo-512.png" alt="The Inked Network Logo" width="150" style="margin-right: 10px;" align="left"/>
+  <b>The Inked Network</b> is a modern web application that enables tattoo enthusiasts to explore, connect with, and book artists through interactive portfolios, an AI-enhanced search experience, and a Tinder-style art swiper.
+</p>
+
+**Live App:** [The Inked Networkc](https://www.theinkednetwork.com)
+
+<br clear="left"/>
+
+---
+
 <hr />
 
 <div align="center">
