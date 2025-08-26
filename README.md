@@ -52,12 +52,8 @@ I am a curious software engineer with a passion for Computer Science. I am enrol
 </div>
 
 <br>
-<div align="center">
+<br>
 
-![Stat Card](https://github-readme-stats.vercel.app/api?username=devloos&count_private=true&show_icons=true&include_all_commits=true&icon_color=1e81b0&theme=github_dark)
-
-</div>
-<hr />
 <div>
   <div>
     <span>
