@@ -6,8 +6,9 @@
 
 <div>
   <p>
-I am a curious software engineer with a passion for Computer Science. I am enrolled in Long Beach State University and have been excelling, maintaining an impressive 3.85 GPA while pursuing a Bachelor's in Computer Science. A goal of mine is to create something that leaves a meaningful impact, regardless of its scale.
+    "Any fool can make something complicated. It takes a genius to make it simple." - Einstein
   </p>
+  <p>Currently at Long Beach State University, I love all things computers.</p>
 </div>
 
 ## Featured Project: The Inked Network
