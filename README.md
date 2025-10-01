@@ -52,7 +52,6 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
 <br>
