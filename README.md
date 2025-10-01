@@ -6,7 +6,7 @@
 
 <div>
   <p>
-    "Any fool can make something complicated. It takes a genius to make it simple." - Einstein
+    "Any fool can make something complicated. It takes a genius to make it simple." - Somebody
   </p>
   <p>Currently at Long Beach State University, I love all things computers.</p>
 </div>
