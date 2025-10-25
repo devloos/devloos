@@ -5,10 +5,7 @@
 <br />
 
 <div>
-  <p>
-    "Any fool can make something complicated. It takes a genius to make it simple." - Somebody
-  </p>
-  <p>Currently at Long Beach State University, I love all things in tech.</p>
+  <p>My uptime is better than most servers. Currently at Long Beach State University, I love all things in tech!</p>
 </div>
 
 ## Featured Project: The Inked Network
