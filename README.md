@@ -8,14 +8,14 @@
   <p>My uptime is better than most servers. Currently at Long Beach State University, I love all things in tech!</p>
 </div>
 
-## Featured Project: The Inked Network
+## Featured Project
 
 <p align="left">
   <img src="assets/inked-network-logo-512.png" alt="The Inked Network Logo" width="150" style="margin-right: 10px;" align="left"/>
   <b>The Inked Network</b> is a modern web application that enables tattoo enthusiasts to explore, connect with, and book artists through interactive portfolios, an AI-enhanced search experience, and a Tinder-style art swiper.
 </p>
 
-**Live App:** [The Inked Network](https://www.theinkednetwork.com)
+[The Inked Network](https://www.theinkednetwork.com)
 
 <br clear="left"/>
 
@@ -29,27 +29,28 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt&logoColor=white" alt="Nuxt.js" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white" alt="Symfony" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/TypeScript-2D2D2D?style=flat&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Vue.js-2D2D2D?style=flat&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Nuxt-2D2D2D?style=flat&logo=nuxt&logoColor=00DC82" />
+  <img src="https://img.shields.io/badge/C++-2D2D2D?style=flat&logo=c%2B%2B&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/PHP-2D2D2D?style=flat&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/Python-2D2D2D?style=flat&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/React-2D2D2D?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Java-2D2D2D?style=flat&logo=java&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/Tailwind-2D2D2D?style=flat&logo=tailwind-css&logoColor=38B2AC" />
+  <img src="https://img.shields.io/badge/Docker-2D2D2D?style=flat&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Bootstrap-2D2D2D?style=flat&logo=bootstrap&logoColor=7952B3" />
+  <img src="https://img.shields.io/badge/Symfony-2D2D2D?style=flat&logo=symfony&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/NestJS-2D2D2D?style=flat&logo=nestjs&logoColor=E0234E" />
+  <img src="https://img.shields.io/badge/Django-2D2D2D?style=flat&logo=django&logoColor=0C4B33" />
+  <img src="https://img.shields.io/badge/MongoDB-2D2D2D?style=flat&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/PostgreSQL-2D2D2D?style=flat&logo=postgresql&logoColor=336791" />
+  <img src="https://img.shields.io/badge/Redis-2D2D2D?style=flat&logo=redis&logoColor=DC382D" />
+  <img src="https://img.shields.io/badge/Supabase-2D2D2D?style=flat&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/AWS-2D2D2D?style=flat&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Vercel-2D2D2D?style=flat&logo=vercel&logoColor=FFFFFF" />
 </div>
+
 
 <br>
 <br>
