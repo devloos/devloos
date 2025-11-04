@@ -1,8 +1,4 @@
-<div align="center">
-  <strong>Hey! My name is Carlos Aguilera. &nbsp; </strong>
-  <img src="assets/goat.png" alt="goat" width="25" />
-</div>
-<br />
+<h3>Hey!</h3>
 
 <div>
   <p>My uptime is better than most servers. Currently at Long Beach State University, I love all things in tech!</p>
