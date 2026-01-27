@@ -16,11 +16,11 @@
 <br clear="left"/>
 
 ### Project Highlights
-- Scaled a full-stack Nuxt + Supabase app with real-time chat, auth, and RLS-based role security.
-- Boosted UX and performance via infinite scroll, DOM recycling, and CDN image optimization.
-- Drove SEO growth using SSR, Open Graph, and structured metadata.
-- Integrated Stripe, Google Maps, and GPT-powered image tagging for a seamless experience.
-- Achieved 200+ sign-ups with event management and subscription monetization.
+- Built and shipped a Nuxt 4 (Vue 3 + TypeScript) cross-platform iOS/Android app using Capacitor 8 with native device integrations.
+- Scaled a full-stack Nuxt + Supabase system with real-time chat, authentication, RLS-based security, and role-based access control.
+- Integrated Stripe, Google Maps, OpenAI GPT-4o, and ImageKit/S3 to power AI-assisted image tagging, discovery, and subscriptions.
+- Optimized performance and UX using infinite pagination, DOM recycling, LQIP placeholders, and CDN-based image transformations.
+- Owned mobile release end-to-end, including push notifications, deep linking, offline caching, and App Store / Play policy compliance.
 
 ---
 
