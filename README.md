@@ -16,11 +16,13 @@
 <br clear="left"/>
 
 ### Project Highlights
-- Built and shipped a Nuxt 4 (Vue 3 + TypeScript) cross-platform iOS/Android app using Capacitor 8 with native device integrations.
-- Scaled a full-stack Nuxt + Supabase system with real-time chat, authentication, RLS-based security, and role-based access control.
-- Integrated Stripe, Google Maps, OpenAI GPT-4o, and ImageKit/S3 to power AI-assisted image tagging, discovery, and subscriptions.
-- Optimized performance and UX using infinite pagination, DOM recycling, LQIP placeholders, and CDN-based image transformations.
-- Owned mobile release end-to-end, including push notifications, deep linking, offline caching, and App Store / Play policy compliance.
+- Led development of a cross-platform iOS/Android app, shipping v1 in 4 months and growing to **400 MAU**.
+- Migrated a legacy database into a redesigned schema by writing custom backfill and cleanup scripts, ensuring data integrity and enabling **secure row-level access** controls across all tables.
+- Architected Stripe subscription infrastructure end-to-end, implementing webhooks, handling subscription status changes, and **Apple-compliant external payment** handling.
+- Built an AI-driven media pipeline, processing **\~130k image requests** per month, integrating OpenAI for automated tagging, ImageKit/S3 for performance, and AWS Rekognition to reduce manual moderation.
+- Designed a **real-time chat system** using Supabase Realtime with secure RLS policies, delivery/read receipts, and optimized channel filtering.
+- Implemented **push notifications (FCM)** and deep linking, batching outbound announcements, and triggering **Edge Functions** via database webhooks.
+- Established CI/CD with preview environments, automated database seeding, Xcode Cloud, and rollback strategies.
 
 ---
 
