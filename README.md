@@ -12,7 +12,7 @@ hey, its all for the love of the game
 ▌▓▓▓▄▄▀▀▓▓▓▀▓▓▓▓▓▓▓▓█▓█▓█▓▓▌█▌
 █▐▓▓▓▓▓▓▄▄▄▓▓▓▓▓▓█▓█▓█▓█▓▓▓▐█
 
-  connect with me here:
-    https://www.caguilera.dev
-    https://www.linkedin.com/in/burger-king/
+connect with me here:
+https://www.caguilera.dev
+https://www.linkedin.com/in/burger-king/
 </pre>
